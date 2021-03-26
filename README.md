@@ -30,6 +30,7 @@ Provide a quick summary with which the traveller can make fast and effective dec
   - Tableau
 
 ## Steps
+___
 1. **Transportation 🚍**  
   Normally, I will assume Climate Index and Pollution Index have an effect on commute time.  
   So i decided to check the correlation and covariance of Traffic Commute Time Index, Pollution Index and Climate Index.  
@@ -72,7 +73,7 @@ Provide a quick summary with which the traveller can make fast and effective dec
     - Restaurant Price Index, Safety Index: correlation-coefficient 0.27162826173619786   
     - Restaurant Price Index, Climate Index: correlation-coefficient 0.2014795908896057    
   _Little but something_ 😜
-  
+___  
   
  ## [Results]
  [Traffic Commute](https://www.behance.net/gallery/115874301/Pollution-and-Climate-Index-influencing-Commute-Time)
