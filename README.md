@@ -70,8 +70,8 @@ ___
     > <img width="370" alt="image" src="https://user-images.githubusercontent.com/28558929/112664128-e929db00-8e59-11eb-93a4-e39cd07ee3b1.png">
   From the plots I don't see any statistical proof of linearity between the variables.
   I didn't trust the plots so I calculated the correlation cooefficient :    
-    - Restaurant Price Index, Safety Index: correlation-coefficient 0.27162826173619786   
-    - Restaurant Price Index, Climate Index: correlation-coefficient 0.2014795908896057    
+    - Restaurant Price Index, Safety Index: 0.27162826173619786   
+    - Restaurant Price Index, Climate Index: 0.2014795908896057    
   _Little but something_ 😜
 ___  
   
