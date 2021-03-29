@@ -73,6 +73,7 @@ ___
     - Restaurant Price Index, Safety Index: 0.27162826173619786   
     - Restaurant Price Index, Climate Index: 0.2014795908896057    
   _Little but something_ 😜
+  👉 [Result](https://public.tableau.com/views/RestaurantPricing/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
 ___  
   
  ## [Results]
