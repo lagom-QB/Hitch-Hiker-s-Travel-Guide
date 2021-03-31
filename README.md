@@ -31,6 +31,11 @@ Provide a quick summary with which the traveller can make fast and effective dec
 
 ## Steps
 ___
+### EDA
+  - Merged multiple sheets,
+  - Converted columns to categorical where necessary.  
+  [_Notebook_](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/main/notebooks/manipulations.ipynb)
+___
 1. **Transportation 🚍**  
   Normally, I will assume Climate Index and Pollution Index have an effect on commute time.  
   So i decided to check the correlation and covariance of Traffic Commute Time Index, Pollution Index and Climate Index.  
@@ -72,10 +77,13 @@ ___
   I didn't trust the plots so I calculated the correlation cooefficient :    
     - Restaurant Price Index, Safety Index: 0.27162826173619786   
     - Restaurant Price Index, Climate Index: 0.2014795908896057    
-  _Little but something_ 😜
+  _Little but something_ 😜.  
   👉 [Result](https://public.tableau.com/views/RestaurantPricing/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
 ___  
   
  ## [Results]
- [Traffic Commute](https://www.behance.net/gallery/115874301/Pollution-and-Climate-Index-influencing-Commute-Time)
+  - [Traffic Commute](https://public.tableau.com/profile/quinsy.brenda#!/vizhome/HowPollutionandClimateIndexInfluenceTrafficCommuteTime/Dashboard1)
+  - [Restaurant Prices and Weather](https://public.tableau.com/views/RestaurantPricing/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
+  - [Safety](https://public.tableau.com/views/SafetyandCommuteTime/Dashboard3?:language=en&:display_count=y&:origin=viz_share_link) 
+  - [Lodging](https://public.tableau.com/views/LodgingCosts/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link)
 
