@@ -1,18 +1,6 @@
 # Hitch-Hiker's-Travel-Guide
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-## Introduction
-
-When making short (and sometimes spontaneous trips) what are the main things we should consider? 💭  
-
-I think the hitch-hiker has to consider 5 main things:  
-  - 🚍 Transportation.  
-  - 🏚️ Lodging.  
-  - 🥖 Food (🛍️ Groceries or 🥡 Restaurants ).  
-  - 🌦️ Weather.  
-  - 👮 Safety.  
-___
-
 ## Goal 🥇
 Provide a quick summary with which the traveller can make fast and effective decisions during travels.
 
