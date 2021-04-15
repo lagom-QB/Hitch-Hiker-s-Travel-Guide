@@ -18,9 +18,7 @@ Provide a quick summary with which the traveller can make fast and effective dec
   - Adobe Illustrator [Visualization]   
   - Tableau
 
-## Steps
-___
-### EDA
+## EDA
   - Merged multiple sheets,
   - Converted columns to categorical where necessary.  
   [_Notebook_](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/main/notebooks/manipulations.ipynb)
