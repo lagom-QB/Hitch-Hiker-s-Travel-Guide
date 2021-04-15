@@ -80,9 +80,9 @@ ___
     - Restaurant Price Index, Climate Index: 0.2014795908896057    
   _Little but something_ 😜.  
   👉 [Result](https://public.tableau.com/views/RestaurantPricing/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
-___  
+
   
- ## [Results]
+ ## Results
   - [Traffic Commute](https://public.tableau.com/profile/quinsy.brenda#!/vizhome/HowPollutionandClimateIndexInfluenceTrafficCommuteTime/Dashboard1)
   - [Restaurant Prices and Weather](https://public.tableau.com/views/RestaurantPricing/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
   - [Safety](https://public.tableau.com/views/SafetyandCommuteTime/Dashboard3?:language=en&:display_count=y&:origin=viz_share_link) 
