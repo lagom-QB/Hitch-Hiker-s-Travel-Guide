@@ -23,6 +23,7 @@ Provide a quick summary with which the traveller can make fast and effective dec
   - Converted columns to categorical where necessary.  
   [_Notebook_](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/main/notebooks/manipulations.ipynb)
 ___
+
 1. **Transportation 🚍**  
   Normally, I will assume Climate Index and Pollution Index have an effect on commute time.  
   So i decided to check the correlation and covariance of Traffic Commute Time Index, Pollution Index and Climate Index.  
