@@ -1,9 +1,3 @@
-
-Description of data used for the data science project (the source and descriptive statistics)
-Description of the approach
-Description of results
-Conclusions and next steps
-
 # Hitch-Hiker's-Travel-Guide
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
@@ -13,9 +7,11 @@ For this project, my goal was to provide information and provide a summary which
 
 ## Target Audience 🎯
   - Hitch Hikers 🥾. 
-  ![Hitch hikers](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%201.png)
+  <!--- ![Hitch hikers](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%201.png)-->
+  <img width="500" src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%201.png">
   - Holiday makers 🏖️.  
-  ![Holiday makers](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%202.jpg)
+  <!--- ![Holiday makers](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%202.jpg)-->
+  <img width="500" src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%202.jpg">
 
 
 ### Summary description of the data used for the project
@@ -43,7 +39,8 @@ ___
   So these 2 variables are linearly related to Traffic Commute Time Index as earlier assumed.  
   In the course of manipulating the data I noticed some NULL values and decided to filter out those countries.   
   [👉 Resulting Dashboard ](https://public.tableau.com/profile/quinsy.brenda#!/vizhome/HowPollutionandClimateIndexInfluenceTrafficCommuteTime/Dashboard1)  
-  ![Result](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201.png)
+  <!--- ![Result](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201.png)-->
+  <img src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201.png">
 
 2. **Lodging 🏚️**   
   For Lodging I considered the 
@@ -56,7 +53,8 @@ ___
   I thought these 3 variables should influence choice when going for a place to stay.  
   The data here had 138 countries considered here.  
   [👉Resulting Dashboard](https://public.tableau.com/views/LodgingCosts/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link)
-  ![Result Lodging](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%202.png)
+  <!--- ![Result Lodging](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%202.png)-->
+  <img src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%202.png">
 
 3. **Safety 👮**   
   It made sense to me that Safety should be influenced by traffic commute time.     
@@ -65,7 +63,8 @@ ___
     > <img width="300" alt="image" src="https://user-images.githubusercontent.com/28558929/112666408-72421180-8e5c-11eb-9015-1799211953a1.png">
   
     > [👉Resulting Dashboard](https://public.tableau.com/views/SafetyandCommuteTime/Dashboard3?:language=en&:display_count=y&:origin=viz_share_link)  
-    ![Result Safety](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%203.png)
+    <!--- ![Result Safety](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%203.png)--->
+    <img src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%203.png">
   
 4. **Weather 🌦️**  
   How often does the weather change? Some countries have super spontaneous waether while others are more predictible.  
@@ -79,11 +78,15 @@ ___
     - Restaurant Price Index, Safety Index: 0.27162826173619786   
     - Restaurant Price Index, Climate Index: 0.2014795908896057    
   [👉Resulting Dashboard](https://public.tableau.com/views/RestaurantPricing/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
-  ![Resulting Food](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201-2.png)
+  <!--- ![Resulting Food](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201-2.png)--->
+  <img src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201-2.png">
   
 ## Links to Tableau Results
   - [Traffic Commute](https://public.tableau.com/profile/quinsy.brenda#!/vizhome/HowPollutionandClimateIndexInfluenceTrafficCommuteTime/Dashboard1)
   - [Restaurant Prices and Weather](https://public.tableau.com/views/RestaurantPricing/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
   - [Safety](https://public.tableau.com/views/SafetyandCommuteTime/Dashboard3?:language=en&:display_count=y&:origin=viz_share_link) 
   - [Lodging](https://public.tableau.com/views/LodgingCosts/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link)
+  
+## Conclusions and next steps
+It would be helpful to dig deeper into the data, get a more complete and recent dataset to improve on the information.
 
