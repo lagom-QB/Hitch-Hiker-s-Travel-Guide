@@ -8,10 +8,10 @@ For this project, my goal was to provide information and provide a summary which
 ## Target Audience 🎯
   - Hitch Hikers 🥾. 
   <!--- ![Hitch hikers](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%201.png)-->
-  <img width="500" src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%201.png">
+  <img width="500" src="https://raw.githubusercontent.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/gh-pages/Group%201.png">
   - Holiday makers 🏖️.  
   <!--- ![Holiday makers](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%202.jpg)-->
-  <img width="500" src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Group%202.jpg">
+  <img width="500" src="https://raw.githubusercontent.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/gh-pages/Group%202.jpg">
 
 
 ### Summary description of the data used for the project
@@ -40,7 +40,7 @@ ___
   In the course of manipulating the data I noticed some NULL values and decided to filter out those countries.   
   [👉 Resulting Dashboard ](https://public.tableau.com/profile/quinsy.brenda#!/vizhome/HowPollutionandClimateIndexInfluenceTrafficCommuteTime/Dashboard1)  
   <!--- ![Result](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201.png)-->
-  <img width="600" height="600" src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201.png" />
+  <img src="https://raw.githubusercontent.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/gh-pages/Dashboard%201.png" />
 
 2. **Lodging 🏚️**   
   For Lodging I considered the 
@@ -54,17 +54,16 @@ ___
   The data here had 138 countries considered here.  
   [👉Resulting Dashboard](https://public.tableau.com/views/LodgingCosts/Dashboard2?:language=en&:display_count=y&:origin=viz_share_link)
   <!--- ![Result Lodging](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%202.png)-->
-  <img src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%202.png" />
+  <img src="https://raw.githubusercontent.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/gh-pages/Dashboard%202.png" />
 
 3. **Safety 👮**   
   It made sense to me that Safety should be influenced by traffic commute time.     
   I wanted to look at the correlation of traffic commute and safety and got a value of -0.5475, which seems to me like they are inversely related.  
   So i chose to plot it ...   
     - <img width="300" alt="image" src="https://user-images.githubusercontent.com/28558929/112666408-72421180-8e5c-11eb-9015-1799211953a1.png">
-  
     - [👉Resulting Dashboard](https://public.tableau.com/views/SafetyandCommuteTime/Dashboard3?:language=en&:display_count=y&:origin=viz_share_link)  
     <!--- ![Result Safety](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%203.png)--->
-    <img src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%203.png" />
+    <img src="https://raw.githubusercontent.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/gh-pages/Dashboard%203.png" />
   
 4. **Weather 🌦️**  
   How often does the weather change? Some countries have super spontaneous waether while others are more predictible.  
@@ -72,14 +71,15 @@ ___
   After looking considering groceries under lodging, Food here considers just fancy dining and eating out.  
   As usual with these assumptions, I think the restaurant prices should be influenced by climate index and safety.  
   However, plotting these;   
-    > <img width="370" alt="image" src="https://user-images.githubusercontent.com/28558929/112664128-e929db00-8e59-11eb-93a4-e39cd07ee3b1.png">
+    - <img width="370" alt="image" src="https://user-images.githubusercontent.com/28558929/112664128-e929db00-8e59-11eb-93a4-e39cd07ee3b1.png">
   From the plots I don't see any statistical proof of linearity between the variables.
   I didn't trust the plots so I calculated the correlation cooefficient :    
     - Restaurant Price Index, Safety Index: 0.27162826173619786   
     - Restaurant Price Index, Climate Index: 0.2014795908896057    
   [👉Resulting Dashboard](https://public.tableau.com/views/RestaurantPricing/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
   <!--- ![Resulting Food](https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201-2.png)--->
-  <img src="https://github.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/blob/gh-pages/Dashboard%201-2.png" />
+  <img src=" https://raw.githubusercontent.com/lagom-QB/Hitch-Hiker-s-Travel-Guide/gh-pages/Dashboard%201-2.png" >
+ 
   
 ## Links to Tableau Results
   - [Traffic Commute](https://public.tableau.com/profile/quinsy.brenda#!/vizhome/HowPollutionandClimateIndexInfluenceTrafficCommuteTime/Dashboard1)
